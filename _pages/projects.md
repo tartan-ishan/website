@@ -31,16 +31,16 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
-            <div style="width: 400px; height: 200px; border-radius: 15px; overflow: hidden;">
+            <div style="width: 400px; height: 300px; border-radius: 15px; overflow: hidden;">
                 <img src="../images/on_device_ml/jetson1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>Sept - Dec 2023</b>
             <br>
-            Deployed and optimized a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf>"Parser-Free Virtual Try-on via Distilling Apperance Flows"</a>, on an NVIDIA Jetson Nano 4GB. The model is convolution and residual connection-based, consisting of two sub-models: the Warping model and the Generative model. As a member of a team of five, I was responsible for compressing the model using various techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
+            Deployed and optimized a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = "https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf">"Parser-Free Virtual Try-on via Distilling Apperance Flows"</a>, on an NVIDIA Jetson Nano 4GB. The model is convolution and residual connection-based, consisting of two sub-models: the Warping model and the Generative model. As a member of a team of five, I was responsible for compressing the model using various techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
+            <a href = "https://sjhpark.github.io/project_desc/on_device_ml">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
         </td>
     </tr>
 </table>
