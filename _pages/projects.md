@@ -9,7 +9,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
-            <div style="width: 450px; height: 600px; border-radius: 15px; overflow: hidden;">
+            <div style="width: 300px; height: 450px; border-radius: 15px; overflow: hidden;">
                 <img src="../images/pilot_workload/sim_setup.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
@@ -22,6 +22,25 @@ author_profile: true
             Our data collection process includes obtaining ground truth labels for pilot workload, gathered through pilots' self-evaluation using the NASA Task Load Index (TLX) questionnaire. Additionally, we are currently engaged in signal processing of the collected data and working on building a multimodal machine learning feature extraction system to estimate pilot workload.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a>
+        </td>
+    </tr>
+</table>
+---
+
+### Large Generative Model On-Device Deployment & Optimization
+<table style="border: none; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 10px; border: none;">
+            <div style="width: 400px; height: 200px; border-radius: 15px; overflow: hidden;">
+                <img src="../images/on_device_ml/jetson1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+        </td>
+        <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
+            <b>Sept - Dec 2023</b>
+            <br>
+            Deployed and optimized a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf>"Parser-Free Virtual Try-on via Distilling Apperance Flows"</a>, on an NVIDIA Jetson Nano 4GB. The model is convolution and residual connection-based, consisting of two sub-models: the Warping model and the Generative model. As a member of a team of five, I was responsible for compressing the model using various techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
+            <br>
+            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
         </td>
     </tr>
 </table>
@@ -87,7 +106,7 @@ author_profile: true
             <br>
             In this project, I computed disparity maps from vehicle road view images using KITTI Stereo 2015 dataset.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/depth_map">More</a> | <a href="https://github.com/sjhpark/Depth-Map.git">GitHub</a>
+            <a href="https://github.com/sjhpark/Depth-Map.git">GitHub</a>
         </td>
     </tr>
 </table>
