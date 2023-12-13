@@ -56,4 +56,4 @@ We assessed motion forecasting models by inputting historical aircraft trajector
     <img src="../images/aircraft_traj_pred/vector_swim_grid.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
-<i>I would like to express our sincere gratitude to Pablo Ortega-Kral for his substantial contributions to this project. Pablo played a pivotal role in the execution of the research, including the primary work and creation of figures presented in this report. His dedication and expertise significantly enriched the outcome of this study.</i>
+<i>I would like to express my sincere gratitude to Pablo Ortega-Kral for his substantial contributions to this project. Pablo played a pivotal role in the execution of the research, including the primary work and creation of figures presented in this project. His dedication and expertise significantly enriched the outcome of this study.</i>
