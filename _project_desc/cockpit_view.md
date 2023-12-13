@@ -62,6 +62,9 @@ We opted for a combination of augmentations to create filters such as Night, Bri
 view conditions, including different weather and lighting
 scenarios and resemble the diversity found in real-world conditions.
 <div style="width: 500px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
+    <img src="../images/cockpit_view/augmentation.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+</div>
+<div style="width: 500px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/diff_augmentation.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
