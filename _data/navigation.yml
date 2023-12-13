@@ -4,7 +4,7 @@ main:
     url: /projects/
   
   - title: "Resume"
-    url: files/Jong_Hoon_Park_Resume.pdf
+    url: /files/Jong_Hoon_Park_Resume.pdf
 
   # - title: "CV"
   #   url: /cv/
