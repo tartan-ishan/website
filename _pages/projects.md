@@ -14,10 +14,9 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>In Progress</b>
-            <br>
             <b>This project is sponsored by a research subsidiary of an automotive company.</b>
             <br><br>
+            <b>In Progress</b><br>
             Currently being involved in the development of a multimodal machine learning model aimed at estimating eVTOL (electric Vertical Take-off & Landing) aircraft pilot workload during various flight operations. As a member of a team consisting of researchers and engineers, we have been collecting multimodal biometric data (including Heart Rate, Eye Gaze, GSR, etc.) from pilots engaged in simulated flights with a VTOL aircraft.
             Our data collection process includes obtaining ground truth labels for pilot workload, gathered through pilots' self-evaluation using the NASA Task Load Index (TLX) questionnaire. Additionally, we are currently engaged in signal processing of the collected data and working on building a multimodal machine learning feature extraction system to estimate pilot workload.
             <br>
@@ -36,8 +35,7 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>Sept - Dec 2023</b>
-            <br>
+            <b>Sept - Dec 2023</b><br>
             Deployed and optimized a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = "https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf">Parser-Free Virtual Try-on via Distilling Apperance Flows (2021)</a>, on an NVIDIA Jetson Nano 4GB. The model is convolution and residual connection-based, consisting of two sub-models: the Warping model and the Generative model. As a member of a team of five, I was responsible for compressing the model using various techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/on_device_ml">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
@@ -46,7 +44,7 @@ author_profile: true
 </table>
 ---
 
-### Cockpit View Segmentation for Adaptive Copilot Systems
+### Closing Sim2Real Gap: Cockpit View Segmentation for Aviation Domain
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
