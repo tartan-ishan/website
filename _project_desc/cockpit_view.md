@@ -86,3 +86,8 @@ While assessing the model's performance with real-world data, we identified limi
 <div style="width: 500px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/fighter_jet.gif" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
+<br><br>
+Our custom dataset and fine-tuned models can be accessed through the QR code below.
+<div style="width: 199px; height: 204px; border-radius: 15px; overflow: hidden; text-align: center;">
+    <img src="../images/cockpit_view/dataset_model_qr.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+</div>
