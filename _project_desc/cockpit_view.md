@@ -12,7 +12,7 @@ The instance segmentation approach enables a granular understanding of the pilot
 <br><br>
 <h2>Introduction</h2><br>
 Our project tackles the challenge of segmenting instances that pilots inside aircraft would see through two methods: closing sim2real gap and domain adaptation to aviation domain.
-<div style="width: 500px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 700px; height: 700px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/cessna172.gif" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
