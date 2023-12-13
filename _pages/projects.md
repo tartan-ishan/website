@@ -38,7 +38,7 @@ author_profile: true
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>Sept - Dec 2023</b>
             <br>
-            Deployed and optimized a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = "https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf">"Parser-Free Virtual Try-on via Distilling Apperance Flows"</a>, on an NVIDIA Jetson Nano 4GB. The model is convolution and residual connection-based, consisting of two sub-models: the Warping model and the Generative model. As a member of a team of five, I was responsible for compressing the model using various techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
+            Deployed and optimized a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = "https://openaccess.thecvf.com/content/CVPR2021/papers/Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf">Parser-Free Virtual Try-on via Distilling Apperance Flows (2021)</a>, on an NVIDIA Jetson Nano 4GB. The model is convolution and residual connection-based, consisting of two sub-models: the Warping model and the Generative model. As a member of a team of five, I was responsible for compressing the model using various techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/on_device_ml">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
         </td>
@@ -57,12 +57,11 @@ author_profile: true
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>Motivation: </b>
             With the growing focus on urban air mobility, the development of next-generation air mobility systems has become
-            a paramount area of research. This project is motivated from a semi-autonomous approach, wherein pilots remain within the air-
-            craft, supported by advanced co-pilot systems to alleviate their workload during flight operations.
-            <br><br>
+            a paramount area of research. This project is motivated from a semi-autonomous approach, wherein pilots remain within the aircraft, supported by advanced co-pilot systems to alleviate their workload during flight operations.
             To enhance adaptive co-pilot systems, a key aspect is identifying instances when pilots experience high workloads, and one effective
             method for workload assessment is analyzing pilots’ eye gaze. 
             The instance segmentation approach enables a granular understanding of the pilot’s visual focus, contributing valuable insights into workload distribution during different phases of flight.
+            <br><br>
             As a member of a team of three, I took charge of custom data collection and preprocessing, and the development, training, and evaluation of the instance segmentation model. I used Detectron2, an open-source object detection and instance segmentation platform provided by FAIR (Facebook AI Research) to train and fine-tune a pre-trained model for instance segmentation.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/cockpit_view">More</a> | <a href="https://github.com/sjhpark/pilotview_segmentation.git">GitHub</a>
