@@ -14,7 +14,7 @@ This was my very first machine learning team project. As a member of a team of f
 <br><br>
 <h2>Model</h2><br>
 We built a baseline Convolutional Neural Network (CNN) model to identify a person's emotion based on facial expressions. The project aims to leverage existing machine learning and computer vision approaches to train a model capable of distinguishing and classifying various facial emotion expressions (e.g., 'happy,' 'sad,' 'angry') from given images of human faces. The model was trained and tested using the mini version of the AffectNet benchmark image dataset.
-<div style="width: 500px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 700px; height: 700px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/emotion_recog/CNN.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
@@ -37,7 +37,7 @@ We conducted a comprehensive analysis of our trained model, computing a confusio
     <img src="../images/emotion_recog/confusion.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <div style="width: 600px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/emotion_recog/confusion_count_per_class.png.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/emotion_recog/confusion_count_per_class.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <div style="width: 600px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/emotion_recog/f1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
