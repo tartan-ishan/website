@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Pilot Workload Estimation via Multimodal Machine Learning
+## Pilot Workload Estimation via Multimodal Machine Learning
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
@@ -26,7 +26,7 @@ author_profile: true
 </table>
 ---
 
-### Large Generative Model On-Device Deployment & Optimization
+## Large Generative Model On-Device Deployment & Optimization
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
@@ -44,7 +44,7 @@ author_profile: true
 </table>
 ---
 
-### Cockpit View Segmentation for Adaptive Copilot Systems
+## Cockpit View Segmentation for Adaptive Copilot Systems
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
@@ -70,7 +70,7 @@ author_profile: true
 </table>
 ---
 
-### Human Facial Emotion Recognition & Classification
+## Human Facial Emotion Recognition & Classification
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
@@ -92,7 +92,7 @@ author_profile: true
 </table>
 ---
 
-### Depth Map of Vehicle Stereo Vision Road Views
+## Depth Map of Vehicle Stereo Vision Road Views
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
