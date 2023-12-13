@@ -18,7 +18,7 @@ Our project tackles the challenge of segmenting instances that pilots inside air
 <br><br>
 <h2>Model</h2><br>
 We employed a Mask R-CNN for cockpit view instance segmentation, utilizing a feature pyramid network (FPN) based on ResNet50 blocks to extract feature maps. Subsequently, a region proposal network (RPN) was utilized to identify regions of interest (ROI). A notable feature of Mask R-CNN is the incorporation of ROI Align, representing an improvement over traditional ROI Pooling. This introduction of ROI Align addresses the issue of quantized strides by employing bilinear interpolation, contributing to a more precise localization of features within the regions of interest. We fine-tuned this model with our custom dataset utilizing Detectron2, an open-sourced platform for object detection and segmentation developed by FAIR (Facebook AI Research), on a Mask R-CNN pretrained on the COCO2017 dataset.
-<div style="width: 700px; height: 200px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/model.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
