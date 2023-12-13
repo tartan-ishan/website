@@ -61,7 +61,7 @@ we devised unique image augmentation methods using Kornia and PyTorch’s Transf
 We opted for a combination of augmentations to create filters such as Night, Bright, Motion Blur, and Snow, to simulate diverse
 view conditions, including different weather and lighting
 scenarios and resemble the diversity found in real-world conditions.
-<div style="width: 500px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 900px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/augmentation.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <div style="width: 500px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
@@ -80,13 +80,13 @@ segmentation, especially in comparison to maintaining the
 feature pyramidal network in a frozen state. This implies that fine-tuning the FPN
 played a pivotal role in enhancing the model’s capacity to
 effectively comprehend our customized dataset.
-<div style="width: 700px; height: 200px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 900px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/freeze_compare.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
 <h2>Future Work</h2><br>
 While assessing the model's performance with real-world data, we identified limitations, particularly when testing the F16 fighter jet cockpit in an inverted position. The model struggled to accurately recognize the cockpit orientation, mistaking the sky for the field and vice versa. To enhance robustness to positional variations, we propose to apply geometric augmentation to the training dataset, aiming to improve the model's ability to recognize instances in non-standard orientations and mitigate the issue of positional invariance.
-<div style="width: 500px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 700px; height: 700px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/cockpit_view/fighter_jet.gif" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
