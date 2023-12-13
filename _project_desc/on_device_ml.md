@@ -9,10 +9,10 @@ Convolution-based and language-based models have made significant performance st
 <br><br>
 <h2>Introduction</h2><br>
 As a member of a team of five, I was responsible for compressing a large generative model (72 million parameters) for a virtual garment try-on system based on the model proposed by <a href = "https://openaccess.thecvf.com/content/CVPR2021/papers Ge_Parser-Free_Virtual_Try-On_via_Distilling_Appearance_Flows_CVPR_2021_paper.pdf">Parser-Free Virtual Try-on via Distilling Apperance Flows (2021)</a>, on an NVIDIA Jetson Nano 4GB. I optimized the model efficiency through various model compression techniques such as quantization, pruning, and model knowledge distillation. Additionally, I conducted sensitivity analysis to evaluate each convolution channel and layer concerning compression techniques.
-<div style="width: 600px; height: 640px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 300px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/on_device_ml/jetson1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<div style="width: 600px; height: 640px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 300px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/on_device_ml/jetson_run.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
@@ -136,11 +136,11 @@ To provide clarity, when the list comprises 5 numbers, there are 5 feature encod
 <div style="width: 600px; height: 180px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/on_device_ml/distilled_warp_compare_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-    <div style="width: 600px; height: 180px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/on_device_ml/distilled_warp_compare_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+<div style="width: 600px; height: 180px; border-radius: 15px; overflow: hidden; text-align: center;">
+    <img src="../images/on_device_ml/distilled_warp_compare_2.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-    <div style="width: 600px; height: 180px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/on_device_ml/distilled_warp_compare_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+<div style="width: 600px; height: 180px; border-radius: 15px; overflow: hidden; text-align: center;">
+    <img src="../images/on_device_ml/distilled_warp_compare_3.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <br><br>
 <h2>Distillation Performance</h2><br>
