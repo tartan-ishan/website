@@ -55,6 +55,7 @@ author_profile: true
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>2nd place for the best presentation in CMU's 16-824 Visual Learning & Recognition in Fall 2023</b>
             <br><br>
+            <b>Sept - Dec 2023</b><br>
             <b>Motivation:</b> With the growing focus on urban air mobility, the development of next-generation air mobility systems has become
             a paramount area of research. This project is motivated from a semi-autonomous approach, wherein pilots remain within the aircraft, supported by advanced co-pilot systems to alleviate their workload during flight operations.
             To enhance adaptive co-pilot systems, a key aspect is identifying instances when pilots experience high workloads, and one effective
@@ -80,6 +81,7 @@ author_profile: true
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>Very first ML team project</b>
             <br><br>
+            <b>Sept - Dec 2022</b><br>
             Built a CNN model to recognize and classify human emotions from facial images as a part of a semester-long machine learning team project.
             The objective was to build and train a model that can identify the emotion of a person from its face. As a member of a four person team, 
             I took charge of the data collection and preprocessing. Furthermore, I was responsible for the development, training, and evaluation of the CNN model.
@@ -100,6 +102,7 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
+            <b>Feb 2022</b><br>
             Disparity map is used in conventional computer vision to reconstruct the 3D depth structure of a scene from two stereo vision images (left and right).
             <br>
             In this project, I computed disparity maps from vehicle road view images using KITTI Stereo 2015 dataset.
