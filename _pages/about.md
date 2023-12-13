@@ -20,7 +20,7 @@ As you navigate through my pages, I suggest you explore the narrative journey in
   <tr>
     <td style="padding: 10px; border: none;">
       <div style="width: 200px; height: 200px; border-radius: 30px; overflow: hidden;">
-        <img src="../images/aircraft_traj_pred/vecotr_swim.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="../images/aircraft_traj_pred/vector_swim.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
