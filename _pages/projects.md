@@ -44,7 +44,7 @@ author_profile: true
 </table>
 ---
 
-### Closing Sim2Real Gap: Cockpit View Segmentation for Aviation Domain
+### Cockpit View Segmentation for Adaptive Copilot Systems
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
@@ -79,7 +79,7 @@ author_profile: true
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>Very first ML team project</b>
-            <br>
+            <br><br>
             Built a CNN model to recognize and classify human emotions from facial images as a part of a semester-long machine learning team project.
             The objective was to build and train a model that can identify the emotion of a person from its face. As a member of a four person team, 
             I took charge of the data collection and preprocessing. Furthermore, I was responsible for the development, training, and evaluation of the CNN model.
