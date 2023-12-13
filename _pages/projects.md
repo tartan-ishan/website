@@ -84,10 +84,10 @@ author_profile: true
             <b>Summer 2023</b><br>
             As a member of a team of multiple researchers at Carnegie Mellon University, I was responsible for analyzing the effects of using different airport map representations on aircraft motion forecasting models during the summer of 2023. My teammates and I explored two approaches for airport map representations: (1) rasterized images of HD maps and (2) graph-based vectorized maps. Our objective was to compare these two methods, as different representations offer diverse contextual information that can be leveraged to train models.
             To train our motion forecasting models with aircraft trajectory data, we utilized the SWIM (System Wide Information Management) dataset. We employed SWIM-TF, a transformer-based framework that evaluates various scenario representation methods and feature encodings while maintaining the same overall architecture, ensuring a consistent comparison.
-            <br>
+            <br><br>
             <i>This project was also a joint research effort carried out by the Carnegie Mellon University's Summer 2023 RISS (Robotics Institute Summer Scholars) student, Pablo Ortega-Kral.</i>
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a>
+            <a href = "https://sjhpark.github.io/project_desc/aircraft_traj_pred">More</a>
         </td>
     </tr>
 </table>
