@@ -55,7 +55,7 @@ author_profile: true
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>2nd place for the best presentation in CMU's 16-824 Visual Learning & Recognition in Fall 2023</b>
             <br><br>
-            <b>Sept - Dec 2023</b><br>
+            <b>Nov - Dec 2023</b><br>
             <b>Motivation:</b> With the growing focus on urban air mobility, the development of next-generation air mobility systems has become
             a paramount area of research. This project is motivated from a semi-autonomous approach, wherein pilots remain within the aircraft, supported by advanced co-pilot systems to alleviate their workload during flight operations.
             To enhance adaptive co-pilot systems, a key aspect is identifying instances when pilots experience high workloads, and one effective
@@ -65,6 +65,29 @@ author_profile: true
             As a member of a team of three, I took charge of custom data collection and preprocessing, and the development, training, and evaluation of the instance segmentation model. I used Detectron2, an open-source object detection and instance segmentation platform provided by FAIR (Facebook AI Research) to train and fine-tune a pre-trained model for instance segmentation.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/cockpit_view">More</a> | <a href="https://github.com/sjhpark/pilotview_segmentation.git">GitHub</a>
+        </td>
+    </tr>
+</table>
+---
+
+## Motion Prediction in Airports using Heterogeneous Map Representations
+<table style="border: none; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 10px; border: none;">
+            <div style="width: 400px; height: 400px; border-radius: 15px; overflow: hidden;">
+                <img src="../images/aircraft_traj_pred/vector_swim_grid.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+        </td>
+        <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
+            <b>This project was sponsored by Boeing</b>
+            <br><br>
+            <b>Summer 2023</b><br>
+            As a member of a team of multiple researchers at Carnegie Mellon University, I was responsible for analyzing the effects of using different airport map representations on aircraft motion forecasting models during the summer of 2023. My teammates and I explored two approaches for airport map representations: (1) rasterized images of HD maps and (2) graph-based vectorized maps. Our objective was to compare these two methods, as different representations offer diverse contextual information that can be leveraged to train models.
+            To train our motion forecasting models with aircraft trajectory data, we utilized the SWIM (System Wide Information Management) dataset. We employed SWIM-TF, a transformer-based framework that evaluates various scenario representation methods and feature encodings while maintaining the same overall architecture, ensuring a consistent comparison.
+            <br>
+            <i>This project was also a joint research effort carried out by the Carnegie Mellon University's Summer 2023 RISS (Robotics Institute Summer Scholars) student, Pablo Ortega-Kral.</i>
+            <br>
+            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a>
         </td>
     </tr>
 </table>
