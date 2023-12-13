@@ -36,7 +36,7 @@ We conducted a comprehensive analysis of our trained model, computing a confusio
 <div style="width: 600px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/emotion_recog/confusion.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<div style="width: 600px; height: 600px; border-radius: 15px; overflow: hidden; text-align: center;">
+<div style="width: 800px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/emotion_recog/confusion_count_per_class.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 <div style="width: 600px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
