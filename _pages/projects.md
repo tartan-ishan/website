@@ -51,12 +51,13 @@ author_profile: true
     <tr>
         <td style="padding: 10px; border: none;">
             <div style="width: 400px; height: 360px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/cockpit_view/compare.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <img src="../images/cockpit_view/compare.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>Motivation: </b>
-            With the growing focus on urban air mobility, the development of next-generation air mobility systems has become
+            <b>2nd place for the best presentation in CMU's 16-824 Visual Learning & Recognition in Fall 2023</b>
+            <br><br>
+            <b>Motivation:</b> With the growing focus on urban air mobility, the development of next-generation air mobility systems has become
             a paramount area of research. This project is motivated from a semi-autonomous approach, wherein pilots remain within the aircraft, supported by advanced co-pilot systems to alleviate their workload during flight operations.
             To enhance adaptive co-pilot systems, a key aspect is identifying instances when pilots experience high workloads, and one effective
             method for workload assessment is analyzing pilots’ eye gaze. 
