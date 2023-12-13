@@ -81,11 +81,9 @@ conventional method, I chose to run inference directly
 with our pruned model, systematically pruning one specific
 filter at a time. I pruned the first 64 filters per layer, given
 that the smallest convolution layers in the encoders, except
-for those in the downsampling block, have 64 output chan-
-nels (filters). Since AFWM comprises multiple convolu-
-tion layers, each followed by batch normalization, I had
-to adapt our architecture. Specifically, I adjusted the num-
-ber of input channels for the first subsequent convolution
+for those in the downsampling block, have 64 output channels (filters). 
+Since AFWM comprises multiple convolution layers, each followed by batch normalization, 
+I had to adapt our architecture. Specifically, I adjusted the number of input channels for the first subsequent convolution
 layer by decreasing it by one. Additionally, I reduced the
 number of features for the first subsequent batch normaliza-
 tion, including its bias, running mean (moving mean), and
@@ -96,6 +94,17 @@ running variance (moving variance), by one as well.
 <div style="width: 650px; height: 450px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/on_device_ml/AFWM_filter_pruning_SSIM.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
+<br>
+Through filter-wise structured pruning in a post-training regime,
+I have reached the conclusion that the mid layers in the encoders and networks within the Appearance
+Flow Warp Network are the least sensitive to pruning. In contrast, the initial layers are the most sensi-
+tive, as they capture the highest-level and global features of the input images.
+Furthermore, the performance drop after pruning the initial layers is
+attributed to specific filters within those layers. Therefore, the performance of the
+initial layer is dependent on certain filters, which I refer to as ’key-player’ filters. Pruning other filters
+may not have as significant an impact on performance. I propose that a carefully devised filter-wise
+pruning method, either structured or unstructured, targeting non-key-player filters, could result in model
+compression without compromising performance.
 <br><br>
 <h2>Model Distillation (Knowledge Distillation)</h2><br>
 We have experimented with a model distillation technique
