@@ -9,7 +9,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
-            <div style="width: 300px; height: 450px; border-radius: 15px; overflow: hidden;">
+            <div style="width: 400px; height: 600px; border-radius: 15px; overflow: hidden;">
                 <img src="../images/pilot_workload/sim_setup.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
@@ -50,8 +50,8 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
-            <div style="width: 480px; height: 400px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/cockpit_view/compare.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+            <div style="width: 400px; height: 360px; border-radius: 15px; overflow: hidden;">
+                <img src="../images/cockpit_view/compare.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
