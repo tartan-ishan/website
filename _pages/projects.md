@@ -83,7 +83,7 @@ author_profile: true
             <br><br>
             <b>Sept - Dec 2022</b><br>
             Built a CNN model to recognize and classify human emotions from facial images as a part of a semester-long machine learning team project.
-            The objective was to build and train a model that can identify the emotion of a person from its face. As a member of a four person team, 
+            The objective was to build and train a model that can identify the emotion of a person from its face. As a member of a five person team, 
             I took charge of the data collection and preprocessing. Furthermore, I was responsible for the development, training, and evaluation of the CNN model.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/emotion_recog">More</a> | <a href="https://github.com/sjhpark/Facial_Emotion_Classifier.git">GitHub</a>

@@ -22,46 +22,45 @@ For a more accurate estimation of pilot workload, we chose to collect seven diff
 <video controls="controls" width="400" height="800">
   <source src="../images/pilot_workload/experiment.MOV">
 </video> 
-<br><br>
+<br>
 <h3>Heart Rate</h3><br>
 We collected heart rate using a wristband heart rate monitor.
 <div style="width: 400px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/e4.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
+<br>
 <h3>Galvanic Skin Response</h3><br>
 We collected galvanic skin response by wrapping electropads around the fingers of the participants. These electropads are connected to a wireless GSR sensor.
 <div style="width: 400px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/gsr.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
+<br>
 <h3>Eye Gaze</h3><br>
 We collected the participants' eye gaze using eye-tracking glasses.
 <div style="width: 400px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/eyetracking.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
+<br>
 <h3>Response Time</h3><br>
 We collected the participants' response time approximately every 15 seconds by activating a vibration motor attached to their collarbone. Participants were required to press a clicker whenever they felt the vibration.
 <div style="width: 400px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/response_time_clicker.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
+<br>
 <h3>Body Pose</h3><br>
 We collected upper body joint poses in 3D spatial coordinates (x, y, z) using an Xbox Kinect camera.
 <div style="width: 400px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/kinect.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
+<br>
 <h3>Brain Activity</h3><br>
 We collected brain activity using an fNIR (Functional near-infrared spectroscopy) sensor. This sensor emits non-invasive near-infrared light to estimate cortical hemodynamic activity.
 <div style="width: 200px; height: 400px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/fnir.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
+<br>
 <h3>Grip Force</h3><br>
 We collected the participants' grip force during the simulated flight using two individual force-sensing resistor strips attached to the joystick.
 <div style="width: 300px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/pilot_workload/joystick.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
-<br><br>
