@@ -108,7 +108,7 @@ running variance (moving variance), by one as well.
     <figcaption>SSIM per Pruned Channel</figcaption>
 </figure>
 <br><br>
-<h2>Model Distillation (Knowledge Distillation)</2><br>
+<h2>Model Distillation (Knowledge Distillation)</h2><br>
 We have experimented with a model distillation technique
 to compress our model, with the primary goal of mini-
 mizing the impact on performance without the need for
