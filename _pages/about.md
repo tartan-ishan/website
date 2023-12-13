@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1>Welcome!</h2>
+
+<h2>Welcome!</h2>
 <br>
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 I am a second-year master's student in the Department of Mechanical Engineering at Carnegie Mellon University (CMU). My work and interests primarily focus on multimodal machine learning, self-suprevised learning, on-device machine learning, and model compression for optimizaition and improved efficiency. In general, my research interests revolve around the real-world applications of AI/ML in various fields.
