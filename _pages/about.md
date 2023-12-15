@@ -24,3 +24,5 @@ As you navigate through my pages, I suggest you explore the narrative journey in
     </td>
   </tr>
 </table>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
