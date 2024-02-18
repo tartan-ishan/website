@@ -15,7 +15,7 @@ As you navigate through my pages, I suggest you explore the narrative journey in
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="padding: 10px; border: none;">
-      <div style="width: 200px; height: 300px; border-radius: 30px; overflow: hidden;">
+      <div style="width: 250px; height: 350px; border-radius: 30px; overflow: hidden;">
         <img src="../images/pilot_workload/flight_experiment_setup.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
