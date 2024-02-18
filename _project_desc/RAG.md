@@ -27,6 +27,7 @@ We are in the research phase of this project and are currently focusing on the f
     <li>Fine-tuning the LLM to generate human-like responses if performance is not satisfactory.</li>
     <li>Optimizing the inference time and memory usage of the retrieval system.</li>
     <li>Developing a user-friendly interface for the web application.</li>
+</ul>
 <br><br>
 <h2>Web Application</h2><br>
 We are currently developing a web application that allows users to upload PDF documents and ask questions.
