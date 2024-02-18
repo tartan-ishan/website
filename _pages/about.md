@@ -15,12 +15,12 @@ As you navigate through my pages, I suggest you explore the narrative journey in
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="padding: 10px; border: none;">
-      <div style="width: 200px; height: 200px; border-radius: 30px; overflow: hidden;">
-        <img src="../images/aircraft_traj_pred/vector_swim.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+      <div style="width: 200px; height: 300px; border-radius: 30px; overflow: hidden;">
+        <img src="../images/pilot_workload/flight_experiment_setup.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
     <td style="padding: 10px; border: none; vertical-align: top; font-size: 18px;">
-      <b>My research primarily focuses on using deep learning-based and multimodal machine learning models to conduct statistical estimators in various fields, such as aviation, autonomous driving, robotics, and biomedical applications.</b> Currently, I am particularly concentrated on building machine learning models to facilitate their usage in the aviation domain, with the hope of contributing to more adaptive flight control, co-pilot, and even air traffic-related systems. Previously, I obtained my bachelor's degree in Aerospace Engineering, which has been serving as my prior knowledge in this domain.
+      <b>I primarily focus on using deep learning and machine learning models to conduct statistical estimators in various fields, such as aviation, autonomous driving, robotics, and biomedical applications.</b> My recent research project has been concentrating on building and training multimodal machine learning models to estimate pilots' workload during various flight operations. I am also interested in LLMs and their applications. I am currently working on a Q&A chatbot system that leverages retrieval-augmented generation (RAG) to mitigate hallucination in LLMs.
     </td>
   </tr>
 </table>
