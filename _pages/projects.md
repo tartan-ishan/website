@@ -41,7 +41,7 @@ author_profile: true
             Currently being involved in the development of a multimodal machine learning model aimed at estimating eVTOL (electric Vertical Take-off & Landing) aircraft pilot workload during various flight operations. As a member of a team consisting of researchers and engineers, we have been collecting multimodal biometric data (including Heart Rate, Eye Gaze, GSR, etc.) from pilots engaged in simulated flights with a VTOL aircraft.
             Our data collection process includes obtaining ground truth labels for pilot workload, gathered through pilots' self-evaluation using the NASA Task Load Index (TLX) questionnaire. Additionally, we are currently engaged in signal processing of the collected data and working on building a multimodal machine learning feature extraction system to estimate pilot workload.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
+            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a>
         </td>
     </tr>
 </table>
