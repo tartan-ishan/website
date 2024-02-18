@@ -9,22 +9,18 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 10px; border: none;">
-            <div style="width: 800px; height: 500px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/RAG/RAG_App.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+            <div style="width: 400px; height: 500px; border-radius: 15px; overflow: hidden;">
+                <img src="../images/RAG/RAG_App2.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
-    </tr>
-    <tr>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>This project is sponsored by a research subsidiary of an automotive company.</b>
-            <br><br>
-            <b>In Progress</b><br>
+            <b>Jan 2024 - Present</b><br>
             We are developing a Q&A chatbot system that leverages retrieval-augmented generation (RAG).
             The core idea of RAG is to mitigate hallucination often observed in large language models (LLMS).
             We are currently tackling multiple challenges, including further hallucination mitigation, document vectorization and search, fine-tuning the LLM, and faster inference of query responses.
             Furthermore, we are developing a web application so that users can easily upload documents and query the chatbot.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a>
+            <a href = "https://sjhpark.github.io/project_desc/RAG">More</a> | <a href="https://github.com/sjhpark/QuestionAnswering-LLM.git">GitHub</a>
         </td>
     </tr>
 </table>
@@ -41,11 +37,11 @@ author_profile: true
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>This project is sponsored by a research subsidiary of an automotive company.</b>
             <br><br>
-            <b>In Progress</b><br>
+            <b>May 2023 - Present</b><br>
             Currently being involved in the development of a multimodal machine learning model aimed at estimating eVTOL (electric Vertical Take-off & Landing) aircraft pilot workload during various flight operations. As a member of a team consisting of researchers and engineers, we have been collecting multimodal biometric data (including Heart Rate, Eye Gaze, GSR, etc.) from pilots engaged in simulated flights with a VTOL aircraft.
             Our data collection process includes obtaining ground truth labels for pilot workload, gathered through pilots' self-evaluation using the NASA Task Load Index (TLX) questionnaire. Additionally, we are currently engaged in signal processing of the collected data and working on building a multimodal machine learning feature extraction system to estimate pilot workload.
             <br>
-            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a> | <a href="https://github.com/sjhpark/QuestionAnswering-LLM.git">GitHub</a>
+            <a href = "https://sjhpark.github.io/project_desc/pilot_workload">More</a> | <a href="https://github.com/sjhpark/Virtual-Try-On-Deployment-Kit.git">GitHub</a>
         </td>
     </tr>
 </table>
