@@ -9,7 +9,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;">
     <tr>
         <td style="padding: 15px; border: none;">
-            <div style="width: 800px; height: 300px; border-radius: 15px; overflow: visible; text-align: center;">
+            <div style="width: 1000px; height: 400px; border-radius: 15px; overflow: visible; text-align: center;">
                 <img src="../images/RAG/RAG_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
