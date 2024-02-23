@@ -8,7 +8,7 @@ author_profile: true
 ## Q&A Chatbot with LLMs via Retrieval Augmented Generation for Hallucination Mitigation
 <table style="border: none; border-collapse: collapse;">
     <tr>
-        <td style="padding: 10px; border: none;">
+        <td style="padding: 0px; border: none;">
             <div style="width: 800px; height: 300px; border-radius: 5px; overflow: visible; text-align: center;">
                 <img src="../images/RAG/RAG_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
