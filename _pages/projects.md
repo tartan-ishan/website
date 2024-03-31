@@ -147,7 +147,7 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>Dec 2022</b><br>
+            <b>Feb 2022</b><br>
             Created a mouse-interactive controller for the movement of a 3-jointed planar (2D) arm end-effector in Python.
             <br>
             The controller uses the following algorithms:
