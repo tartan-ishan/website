@@ -146,7 +146,7 @@ author_profile: true
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
             <b>Feb 2023 (personal project)</b><br>
-            Developed a feedforward neural network model to predict varying size of NACA 0012 airfoils' noise levels 
+            Developed a feedforward neural network model to predict varying size NACA 0012 airfoils' noise levels 
             based on the airfoil geometry and flow conditions.
             The model was trained on the UCI Airfoil Self-Noise Data Set, which contains airfoil features and the corresponding noise levels.
             <ul style="list-style-type:disc">
