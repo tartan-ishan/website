@@ -138,6 +138,31 @@ author_profile: true
 </table>
 ---
 
+## Planar Robot Arm Controller
+<table style="border: none; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 10px; border: none;">
+            <div style="width: 400px; height: 400px; border-radius: 15px; overflow: hidden;">
+                <img src="https://raw.githubusercontent.com/sjhpark/Planar-Robot-Arm-Controller/f3feb2f3af5e352f5666d4253388cb7fb6b1b54d/demo.gif" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+        </td>
+        <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
+            <b>Dec 2022</b><br>
+            Created a mouse-interactive controller for the movement of a 3-jointed planar (2D) arm end-effector in Python.
+            <br>
+            The controller uses the following algorithms:
+            <ul style="list-style-type:disc">
+                <li>Inverse Kinematics for calculating each joint angle, given the desired (x,y) position of the end effector.</li>
+                <li>Forward Kinematics for moving the each arm segment and the end effector to the corresponding position when given joint angles.</li>
+            </ul>
+            Users can click anywhere in the grid in the controller window to move the 3R planar maniuplator.
+            <br>
+            <a href="https://github.com/sjhpark/Planar-Robot-Arm-Controller">GitHub</a>
+        </td>
+    </tr>
+</table>
+---
+
 ## Depth Map of Vehicle Stereo Vision Road Views
 <table style="border: none; border-collapse: collapse;">
     <tr>
