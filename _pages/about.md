@@ -12,15 +12,15 @@ I am a graduate research assistant at Carnegie Mellon University (CMU). My work 
 <h1>Interests</h1>
 <table style="border: none; border-collapse: collapse;">
   <tr>
+    <td style="padding: 10px; border: none; vertical-align: top; font-size: 18px;">
+      <b>I primarily focus on using machine learning models as statistical predictors in various fields (e.g., aviation, autonomous driving, robotics, and human factors).</b> My recent research and projects have been concentrating on multomodal machine learning and Retrieval Augmented Generation (RAG). I suggest you explore my projects featured on <a href="https://sjhpark.github.io/projects/">Projects</a> page.
+    </td>
+  </tr>
+  <tr>
     <td style="padding: 10px; border: none;">
       <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
         <img src="../images/pilot_workload/experiment.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: none; vertical-align: top; font-size: 18px;">
-      <b>I primarily focus on using machine learning models as statistical predictors in various fields (e.g., aviation, autonomous driving, robotics, and human factors).</b> My recent research and projects have been concentrating on multomodal machine learning and Retrieval Augmented Generation (RAG). I suggest you explore my projects featured on <a href="https://sjhpark.github.io/projects/">Projects</a> page.
     </td>
   </tr>
 </table>
