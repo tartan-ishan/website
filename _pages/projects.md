@@ -125,14 +125,41 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>Very first ML team project</b>
-            <br><br>
-            <b>Sept - Dec 2022</b><br>
+            <b>Sept - Dec 2022 (very first ML team project)</b><br>
             Built a CNN model to recognize and classify human emotions from facial images as a part of a semester-long machine learning team project.
             The objective was to build and train a model that can identify the emotion of a person from its face. As a member of a five person team, 
             I took charge of the data collection and preprocessing. Furthermore, I was responsible for the development, training, and evaluation of the CNN model.
             <br>
             <a href = "https://sjhpark.github.io/project_desc/emotion_recog">More</a> | <a href="https://github.com/sjhpark/Facial_Emotion_Classifier.git">GitHub</a>
+        </td>
+    </tr>
+</table>
+---
+
+## Airfoil Noise Prediction using Feedforward Neural Networks
+<table style="border: none; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 10px; border: none;">
+            <div style="width: 250px; height: 230px; border-radius: 15px; overflow: hidden;">
+                <img src="../images/airfoil/airfoil_noise.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+        </td>
+        <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
+            <b>Feb 2023 (personal project)</b><br>
+            Developed a feedforward neural network model to predict varying size of NACA 0012 airfoils' noise levels 
+            based on the airfoil geometry and flow conditions.
+            The model was trained on the UCI Airfoil Self-Noise Data Set, which contains airfoil features and the corresponding noise levels.
+            <ul style="list-style-type:disc">
+                <li>Frequency [Hz]</li>
+                <li>Angle of attack [degrees]</li>
+                <li>Chord length [m]</li>
+                <li>Free-stream velocity [m/s]</li>
+                <li>Suction side displacement thickness [m]</li>
+                <li>Scaled Sound Pressure Level [dB]</li>
+            </ul>
+            Achieved average MSE validation error of 3.13 dB for the scaled sound pressure level after 500 epochs of training.
+            <br>
+            <a href="https://github.com/sjhpark/Airfoil-Self-Noise-Prediction">GitHub</a>
         </td>
     </tr>
 </table>
@@ -147,7 +174,7 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>Feb 2022</b><br>
+            <b>Feb 2023 (personal project)</b><br>
             Created a mouse-interactive controller for the movement of a 3-jointed planar (2D) arm end-effector in Python.
             <br>
             The controller uses the following algorithms:
@@ -173,7 +200,7 @@ author_profile: true
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <b>Feb 2022</b><br>
+            <b>Feb 2023 (personal project)</b><br>
             Disparity map is used in conventional computer vision to reconstruct the 3D depth structure of a scene from two stereo vision images (left and right).
             <br>
             In this project, I computed disparity maps from vehicle road view images using KITTI Stereo 2015 dataset.
