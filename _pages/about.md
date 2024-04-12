@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate research assistant at Carnegie Mellon University (CMU). My work and interests primarily focus on multimodal machine learning, self-suprevised learning, on-device machine learning, and model compression for optimizaition and improved efficiency. In general, my interests revolve around the real-world applications of AI/ML in various fields.
+I am a graduate research assistant at Carnegie Mellon University (CMU). My work and interests primarily focus on multimodal machine learning, self-supervised learning, on-device machine learning, and model compression for optimization and improved efficiency. In general, my interests revolve around the real-world applications of AI/ML in various fields.
 <br><br>
 <h1>Interests</h1>
 <table style="border: none; border-collapse: collapse;">
