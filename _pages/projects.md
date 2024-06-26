@@ -10,7 +10,7 @@ author_profile: true
     <tr>
         <td style="padding: 0px; border: none;">
             <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; text-align: center;">
-                <img src="../images/RAG/RAG_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
     </tr>
