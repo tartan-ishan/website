@@ -9,7 +9,7 @@ Q&A systems with large language models (LLMs) have shown remarkable performance 
 However, LLMs often suffer from hallucination and generate plausible but incorrect information.
 <h2>Introduction</h2><br>
 <div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/RAG/RAG_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 To address this issue, we are developing a Q&A chatbot system that leverages retrieval-augmented generation (RAG).
 RAG allows users to vectorize and store documents (we are using PDF format) in a grounded database,
