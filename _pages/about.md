@@ -21,9 +21,19 @@ I am a recent graduate from Carnegie Mellon University with a Master's degree. I
     <td style="padding: 10px; border: none;">
       <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
         <img src="../images/pilot_workload/experiment.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
-        <img src="https://user-images.githubusercontent.com/83327791/208017677-3c6a2972-0d93-4b7c-87d1-506793e30e0c.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
-        <img src="https://user-images.githubusercontent.com/83327791/218372244-b3af1dfc-2d22-4e2e-a0d2-04e6f7f7649b.gif" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
+    </td>
+  </tr>
+        <td style="padding: 10px; border: none;">
+      <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
+            <img src="https://user-images.githubusercontent.com/83327791/208017677-3c6a2972-0d93-4b7c-87d1-506793e30e0c.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+      </div>
+    </td>
+  </tr>
+        <td style="padding: 10px; border: none;">
+      <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
+        <img src="https://user-images.githubusercontent.com/83327791/218372244-b3af1dfc-2d22-4e2e-a0d2-04e6f7f7649b.gif" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+        </div>
     </td>
   </tr>
 </table>
