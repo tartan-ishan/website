@@ -14,16 +14,16 @@ I am a recent graduate from Carnegie Mellon University with a Master's degree. I
   <tr>
     <td style="padding: 10px; border: none; vertical-align: top; font-size: 18px;">
       <b>I primarily focus on using machine learning models as statistical predictors in various fields (e.g., aviation, autonomous driving, robotics, and human factors).</b> 
-      I suggest you explore my projects featured on <a href="https://sjhpark.github.io/projects/">Projects</a> page.
+      I suggest you explore my projects featured on <a href="https://tartan-ishan.github.io/website/projects/">Projects</a> page.
     </td>
   </tr>
   <tr>
     <td style="padding: 10px; border: none;">
       <div style="width: 500px; height: 430px; border-radius: 15px; overflow: hidden;">
-        <img src="../images/pilot_workload/experiment.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+        <img src="../images/profile_1.jpeg" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
   </tr>
 </table>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsjhpark.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsjhpark.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a> -->
