@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jong Hoon (Sam) Park"
+title                    : "Ishan Mamadapur"
 title_separator          : "-"
-name                     : &name "Jong Hoon Park"
-description              : &description "MS Student in MechE"
-url                      : https://sjhpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sjhpark/sjhpark.github.io"
+name                     : &name "Ishan Mamadapur"
+description              : &description "Masters Student at CMU"
+url                      : https://tartan-ishan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/website" # the subpath of your site, e.g. "/blog"
+repository               : "tartan-ishan/website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jong Hoon Park"
-  avatar           : "profile.jpg"
-  bio              : "Graduate Research Assistant at Carnegie Mellon University | M.S. in MechE (2022-2024) | AI/ML | Multimodal ML | Computer Vision | Aviation"
+  name             : "Ishan Mamadapur"
+  avatar           : "profile_1.jpg"
+  bio              : "Graduate Research Assistant at Carnegie Mellon University | M.S. in MechE with Artificial Intelligence Research (2023-2024) | AI/ML | Deep Learning | Computer Vision | Language Models"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jonghoon@andrew.cmu.edu"
-  email            : "jonghoon@alumni.cmu.edu"
+  email            : "imamadap@andrew.cmu.edu"
+  email            : "ishan.mamadapur@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sjhpark"
+  github           : "tartan-ishan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sjhpark"
+  linkedin         : "ishanmamadapur"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
