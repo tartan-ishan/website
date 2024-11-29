@@ -78,7 +78,7 @@ redirect_from:
   </tr>
 </table>
 
-<h1>Interests</h1>
+<!-- <h1>Interests</h1> -->
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td style="padding: 20px; border: none;">
