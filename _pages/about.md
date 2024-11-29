@@ -20,8 +20,7 @@ I'm Ishan Mamadapur, a graduate student at Carnegie Mellon University pursuing m
           <li style="margin-bottom: 10px;">• Machine Learning & Deep Learning</li>
           <li style="margin-bottom: 10px;">• Computer Vision</li>
           <li style="margin-bottom: 10px;">• Large Language Models</li>
-          <li style="margin-bottom: 10px;">• MLOps & Inference Optimization</li>
-
+          <li style="margin-bottom: 10px;">• MLOps & Inference</li>
         </ul>
       </div>
       <div>
