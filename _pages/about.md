@@ -26,7 +26,7 @@ I'm Ishan Mamadapur, a graduate student at Carnegie Mellon University pursuing m
       <div>
         <h3 style="margin-bottom: 15px;">Personal Interests</h3>
         <ul style="list-style-type: none; padding: 0;">
-          <li style="margin-bottom: 10px;">• 3D Printing & Prototyping</li>\
+          <li style="margin-bottom: 10px;">• 3D Printing & Prototyping</li>
           <li style="margin-bottom: 10px;">• Aircraft Design & Aeronautics</li>
           <li style="margin-bottom: 10px;">• Teaching & Mentorship</li>
           <li style="margin-bottom: 10px;">• Innovation & Entrepreneurship</li>
