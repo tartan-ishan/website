@@ -9,7 +9,7 @@ Large Language Models often struggle with mathematical computations and factual 
 
 <h2>Introduction</h2><br>
 <div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/llm_rag_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 This project addressed the challenge of improving language model accuracy for specialized tasks, particularly in mathematical computations and factual queries. Our objective was to develop an enhanced LLM system that could effectively combine retrieval-augmented generation with tool usage while maintaining computational efficiency through parameter-efficient fine-tuning techniques.
 <br><br>

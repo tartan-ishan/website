@@ -9,7 +9,7 @@ Real-time pose estimation for previously unseen objects presents a significant c
 
 <h2>Introduction</h2><br>
 <div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/pose_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 This project tackled the challenge of estimating 6-DoF object poses in real-time without prior training data, a critical capability for robotic manipulation and augmented reality applications. Our objective was to develop a deployable pipeline that could accurately determine object positions and orientations while maintaining minimal computational overhead.
 

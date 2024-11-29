@@ -9,7 +9,7 @@ Human segmentation remains a fundamental challenge in computer vision, particula
 
 <h2>Introduction</h2><br>
 <div style="width: 800px; height: 300px; border-radius: 15px; overflow: hidden; text-align: center;">
-    <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="../images/seg_2.jpeg" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div>
 This project addresses the fundamental challenge of accurate human segmentation in computer vision applications, where precise subject isolation is crucial for applications ranging from augmented reality to autonomous systems. Our objective was to develop a high-performance, production-ready computer vision pipeline capable of real-time human segmentation while maintaining high accuracy across diverse scenarios.
 <br><br>

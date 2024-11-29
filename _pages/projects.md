@@ -10,7 +10,7 @@ author_profile: true
     <tr>
         <td style="padding: 0px; border: none;">
             <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; text-align: center;">
-                <img src="../images/RAG/Q&A_pipeline.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <img src="../images/rec_sys_1.jpg" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
             </div>
         </td>
     </tr>
@@ -19,7 +19,7 @@ author_profile: true
             <!-- <b>Jan 2024 - Present</b><br> -->
             We developed and deployed a scalable movie recommendation system for a streaming platform, handling one million simulated users through collaborative filtering with matrix factorization techniques. The system achieved an 18% improvement in engagement metrics through comprehensive A/B testing, validated through increased watch time and reduced content selection time. We architected a robust MLOps infrastructure utilizing Jenkins for CI/CD pipelines, containerized model serving with Docker for zero-downtime deployments, and implemented extensive monitoring using Prometheus and Grafana dashboards for real-time system health and model performance tracking. The project demonstrated both technical depth in machine learning implementation and practical engineering skills in building production-ready systems that maintain high availability and performance standards.
             <br>
-            <a href = "https://tartan-ishan.github.io/website/project_desc/RAG">More</a> 
+            <a href = "https://tartan-ishan.github.io/website/project_desc/rec_sys">More</a> 
         </td>
     </tr>
 </table>
@@ -30,7 +30,7 @@ author_profile: true
     <tr>
         <td style="padding: 10px; border: none;">
             <div style="width: 400px; height: 600px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/pilot_workload/sim_setup.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="../images/llm_rag_2.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
@@ -48,7 +48,7 @@ author_profile: true
     <tr>
         <td style="padding: 10px; border: none;">
             <div style="width: 400px; height: 300px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/on_device_ml/jetson1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="../images/seg_1.jpeg" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
@@ -65,7 +65,7 @@ author_profile: true
     <tr>
         <td style="padding: 10px; border: none;">
             <div style="width: 400px; height: 360px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/cockpit_view/compare.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                <img src="../images/pose_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
