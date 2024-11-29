@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+<!-- 
 ## Movie Recommendation System for Streaming Platform with One Million Simulated Users
 <table style="border: none; border-collapse: collapse;">
     <tr>
@@ -18,14 +18,13 @@ author_profile: true
     </tr>
     <tr>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <!-- <b>Jan 2024 - Present</b><br> -->
             We developed and deployed a scalable movie recommendation system for a streaming platform, handling one million simulated users through collaborative filtering with matrix factorization techniques. The system achieved an 18% improvement in engagement metrics through comprehensive A/B testing, validated through increased watch time and reduced content selection time. We architected a robust MLOps infrastructure utilizing Jenkins for CI/CD pipelines, containerized model serving with Docker for zero-downtime deployments, and implemented extensive monitoring using Prometheus and Grafana dashboards for real-time system health and model performance tracking. The project demonstrated both technical depth in machine learning implementation and practical engineering skills in building production-ready systems that maintain high availability and performance standards.
             <br>
             <a href = "https://tartan-ishan.github.io/website/project_desc/rec_sys">More</a> 
         </td>
     </tr>
 </table>
----
+
 
 ## Enhanced Large Language Model System with RAG and Tool Integration
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -83,4 +82,130 @@ author_profile: true
             <a href = "https://tartan-ishan.github.io/website/project_desc/pose">More</a>
         </td>
     </tr>
-</table>
+</table> -->
+<div style="display: flex; flex-direction: column; gap: 60px;">
+
+<!-- Movie Recommendation System -->
+<div style="
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+">
+    <h2 style="color: #2C3E50; margin-bottom: 30px;">Movie Recommendation System for Streaming Platform</h2>
+    <div style="width: 100%; margin-bottom: 30px; border-radius: 15px; overflow: hidden;">
+        <a href="https://tartan-ishan.github.io/website/project_desc/rec_sys">
+            <img src="../images/rec_sys_1.jpg" alt="Movie Recommendation System" style="width: 100%; height: 400px; object-fit: cover;">
+        </a>
+    </div>
+    <p style="font-size: 16px; line-height: 1.8; color: #2C3E50;">
+        We developed and deployed a scalable movie recommendation system for a streaming platform, handling one million simulated users through collaborative filtering with matrix factorization techniques. The system achieved an 18% improvement in engagement metrics through comprehensive A/B testing, validated through increased watch time and reduced content selection time. We architected a robust MLOps infrastructure utilizing Jenkins for CI/CD pipelines, containerized model serving with Docker for zero-downtime deployments, and implemented extensive monitoring using Prometheus and Grafana dashboards for real-time system health and model performance tracking.
+    </p>
+    <a href="https://tartan-ishan.github.io/website/project_desc/rec_sys" style="
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background: #3498DB;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: 500;
+    ">Learn More</a>
+</div>
+
+<!-- Enhanced LLM System -->
+<div style="
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+">
+    <h2 style="color: #2C3E50; margin-bottom: 30px;">Enhanced Large Language Model System with RAG</h2>
+    <div style="width: 100%; margin-bottom: 30px; border-radius: 15px; overflow: hidden;">
+        <a href="https://tartan-ishan.github.io/website/project_desc/llm_rag">
+            <img src="../images/llm_rag_2.png" alt="LLM System" style="width: 100%; height: 400px; object-fit: cover;">
+        </a>
+    </div>
+    <p style="font-size: 16px; line-height: 1.8; color: #2C3E50;">
+        Engineered a retrieval-augmented generation (RAG) system using the Pythia-1B model as our foundation, implementing LoRA-based parameter-efficient fine-tuning. The system integrated a calculator tool and dense retrieval capabilities to enhance performance on mathematical and factual queries. By combining these approaches with custom prompt engineering and optimization techniques, we achieved a 30% improvement in accuracy across target tasks.
+    </p>
+    <a href="https://tartan-ishan.github.io/website/project_desc/llm_rag" style="
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background: #3498DB;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: 500;
+    ">Learn More</a>
+</div>
+
+<!-- Human Segmentation Pipeline -->
+<div style="
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    display: flex;
+    gap: 30px;
+    align-items: center;
+">
+    <div style="flex: 0 0 400px;">
+        <a href="https://tartan-ishan.github.io/website/project_desc/segmentation">
+            <img src="../images/seg_1.jpeg" alt="Segmentation Pipeline" style="width: 100%; height: 300px; object-fit: cover; border-radius: 15px;">
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <h2 style="color: #2C3E50; margin-bottom: 20px;">Human Segmentation Pipeline for Videos</h2>
+        <p style="font-size: 16px; line-height: 1.8; color: #2C3E50;">
+            Developed an end-to-end computer vision pipeline for human segmentation in videos, integrating insights from extensive research across 10+ papers. The system combined transformer and CNN architectures to achieve high-accuracy segmentation, incorporating portrait matting, multi-class body part segmentation, and anatomical landmark detection.
+        </p>
+        <a href="https://tartan-ishan.github.io/website/project_desc/segmentation" style="
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #3498DB;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 500;
+        ">Learn More</a>
+    </div>
+</div>
+
+<!-- 6-DoF Pose Estimation -->
+<div style="
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    display: flex;
+    gap: 30px;
+    align-items: center;
+">
+    <div style="flex: 0 0 400px;">
+        <a href="https://tartan-ishan.github.io/website/project_desc/pose">
+            <img src="../images/pose_1.png" alt="Pose Estimation" style="width: 100%; height: 360px; object-fit: cover; border-radius: 15px;">
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <h2 style="color: #2C3E50; margin-bottom: 20px;">Real-Time 6-DoF Pose Estimation</h2>
+        <p style="font-size: 16px; line-height: 1.8; color: #2C3E50;">
+            Developed a real-time 6-DoF pose estimation pipeline for novel objects with no prior training data, achieving 85% accuracy through innovative synthetic data generation and domain adaptation strategies. Using platforms like Nvidia Isaac Sim and Blender, we created photorealistic training datasets with domain randomization to enhance generalization.
+        </p>
+        <a href="https://tartan-ishan.github.io/website/project_desc/pose" style="
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #3498DB;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 500;
+        ">Learn More</a>
+    </div>
+</div>
+
+</div>
+
