@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Large Language Model System with RAG and Tool Integration"
+title: "Human Segmentation Pipeline for Videos in PyTorch"
 permalink: /project_desc/segmentation
 collection: project_desc
 ---
