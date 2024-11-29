@@ -10,7 +10,9 @@ author_profile: true
     <tr>
         <td style="padding: 0px; border: none;">
             <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; text-align: center;">
-                <img src="../images/rec_sys_1.jpg" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                <a href="https://tartan-ishan.github.io/website/project_desc/rec_sys">
+                    <img src="../images/rec_sys_1.jpg" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                    </a>
             </div>
         </td>
     </tr>
@@ -26,18 +28,21 @@ author_profile: true
 ---
 
 ## Enhanced Large Language Model System with RAG and Tool Integration
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
     <tr>
-        <td style="padding: 10px; border: none;">
-            <div style="width: 400px; height: 600px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/llm_rag_2.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+        <td style="padding: 0px; border: none; text-align: center;">
+            <div style="width: 900px; height: 350px; border-radius: 15px; overflow: visible; margin: 0 auto;">
+                <a href="https://tartan-ishan.github.io/website/project_desc/llm_rag">
+                    <img src="../images/llm_rag_2.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
+                </a>
             </div>
         </td>
-        <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
-            <br><br>
+    </tr>
+    <tr>
+        <td style="padding: 20px; border: none; text-align: left; font-size: 16px;">
             Engineered a retrieval-augmented generation (RAG) system using the Pythia-1B model as our foundation, implementing LoRA-based parameter-efficient fine-tuning. The system integrated a calculator tool and dense retrieval capabilities to enhance performance on mathematical and factual queries. By combining these approaches with custom prompt engineering and optimization techniques, we achieved a 30% improvement in accuracy across target tasks. The implementation utilized PyTorch and Hugging Face's Transformers library, incorporating efficient training strategies that reduced computational requirements by 75% while maintaining performance gains. The resulting system demonstrated particularly strong performance in mathematical operations with 85% accuracy, while the dense retrieval component effectively surfaced relevant context for factual queries.
             <br>
-            <a href = "https://tartan-ishan.github.io/website/project_desc/llm_rag">More</a>
+            <a href="https://tartan-ishan.github.io/website/project_desc/llm_rag">More</a>
         </td>
     </tr>
 </table>
@@ -48,7 +53,9 @@ author_profile: true
     <tr>
         <td style="padding: 10px; border: none;">
             <div style="width: 400px; height: 300px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/seg_1.jpeg" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                <a href = "https://tartan-ishan.github.io/website/project_desc/segmentation">
+                    <img src="../images/seg_1.jpeg" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                </a>
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
@@ -65,7 +72,9 @@ author_profile: true
     <tr>
         <td style="padding: 10px; border: none;">
             <div style="width: 400px; height: 360px; border-radius: 15px; overflow: hidden;">
-                <img src="../images/pose_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                <a href = "https://tartan-ishan.github.io/website/project_desc/pose">
+                    <img src="../images/pose_1.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: cover;">
+                </a>
             </div>
         </td>
         <td style="padding: 10px; border: none; vertical-align: top; font-size: 16px;">
