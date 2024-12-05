@@ -21,4 +21,7 @@ Through rigorous A/B testing, the system demonstrated meaningful improvements up
 <h2>Discussion</h2><br>
 The project delivered a production-ready recommendation system with robust monitoring and deployment infrastructure. During implementation, we learned the critical importance of thorough feature engineering for improving recommendation quality. The comprehensive monitoring system proved invaluable for early detection of model drift, while our zero-downtime deployment strategy enabled continuous model updates without service interruption. Regular A/B testing provided concrete validation of improvements and guided further optimization efforts.
 <br><br>
+<h2>Role and Contribution</h2><br>
+I was responsible for designing and implementing the core recommendation algorithm, including the matrix factorization model and associated training pipeline. I established the MLOps infrastructure for model deployment, created monitoring dashboards for system health tracking, and led the A/B testing efforts to measure and validate performance improvements. Throughout the project, I worked closely with the infrastructure team to ensure the system met scalability and reliability requirements.
+<br><br>
 

@@ -23,7 +23,10 @@ Performance testing demonstrated significant improvements in model capabilities.
 <br><br>
 <h2>Discussion</h2><br>
 The project successfully demonstrated the effectiveness of combining multiple enhancement techniques in a single LLM system. Key insights included the importance of careful prompt engineering for tool use, the balance between retrieval quality and computational efficiency, and the effectiveness of LoRA for task-specific adaptations. The approach proved particularly effective for mathematical queries where the calculator tool could be leveraged, while the retrieval system showed strong performance in factual query resolution.
+<br><br>
 
+<h2>Role and Contribution</h2><br>
+I designed and implemented the RAG architecture, including the dense retrieval system and calculator tool integration. I was responsible for implementing the LoRA fine-tuning process, optimizing the retrieval system parameters, and developing the evaluation framework for measuring accuracy improvements. 
 <br><br>
 <!-- <div style="width: 800px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/RAG/RAG_App.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">

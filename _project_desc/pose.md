@@ -24,7 +24,10 @@ The implemented system achieved 85% pose accuracy on novel objects, matching the
 <br><br>
 <h2>Discussion</h2><br>
 The project demonstrated the viability of zero-shot pose estimation through effective synthetic data utilization and domain adaptation. Key insights included the importance of physically accurate rendering for synthetic data generation and the effectiveness of progressive domain adaptation for handling the synthetic-to-real gap. The optimization process revealed crucial tradeoffs between model complexity and inference speed, leading to architectural decisions that balanced accuracy with real-time performance requirements.
+<br><br>
 
+<h2>Role and Contribution</h2><br>
+I led the development of the complete pose estimation pipeline, from initial research through deployment. My work encompassed designing the synthetic data generation pipeline and implementing domain adaptation strategies for robust real-world performance. I optimized the model architecture and developed the TensorRT deployment pipeline, ensuring efficient edge device operation.
 <br><br>
 <!-- <div style="width: 800px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/RAG/RAG_App.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">

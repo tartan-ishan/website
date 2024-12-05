@@ -25,9 +25,12 @@ The implemented system achieved a 15% improvement in segmentation accuracy compa
 <br><br>
 <h2>Discussion</h2><br>
 The project successfully delivered a production-ready human segmentation pipeline with robust performance across diverse scenarios. Key insights included the effectiveness of hybrid architectures in balancing accuracy and performance, the critical role of comprehensive data augmentation in handling edge cases, and the importance of temporal consistency in video applications. The visualization tools developed during the project proved invaluable for debugging and performance optimization, while the distributed training infrastructure significantly accelerated the development cycle.
-
-
 <br><br>
+
+<h2>Role and Contribution</h2><br>
+I led the end-to-end development of the segmentation pipeline, overseeing all aspects from architecture design through implementation and optimization. My primary responsibilities encompassed designing and implementing the two-stage architecture while developing specialized data augmentation pipelines and custom loss functions. I established the distributed training infrastructure and optimization workflows that enabled efficient model development. Additionally, I created comprehensive visualization tools for performance analysis.
+<br><br>
+
 <!-- <div style="width: 800px; height: 500px; border-radius: 15px; overflow: hidden; text-align: center;">
     <img src="../images/RAG/RAG_App.png" alt="Project Image" style="width: 100%; height: 100%; object-fit: contain;">
 </div> -->
